@@ -1,6 +1,6 @@
 ## Hey there 👋🏼
 
-I'm Mason Cacurak, I am a passionate 3rd year computer science student at The University of Oklahoma.
+I'm Mason Cacurak, a passionate 3rd year computer science student at The University of Oklahoma.
 
 I'm also currently in the proccess of searching/applying for internships in the technology feild, with location preferences being around the Dallas, TX or Norman, OK area.
 
