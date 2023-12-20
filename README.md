@@ -13,8 +13,8 @@ I'm also currently in the proccess of searching/applying for internships in the 
 - **Contact Information:**
   - Personal email: mcacurak@gmail.com
   - School email: masoncacurak@ou.edu
-  - Phone: (214) 673-9675
   - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/masoncacurak/)
+  - Phone: (214) 673-9675
 
 - **Current CS Course Load:**
   - Data Structures
