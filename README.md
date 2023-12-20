@@ -21,7 +21,7 @@ I'm also currently in the proccess of searching/applying for internships in the 
   - Computer Orginization w/ Lab
   - Probability, Statistics, & Random Process
  
-- **Previously Completed CS Courses:**
+- **Previously Completed ENGR Related Courses:**
   - Programming Structures & Abstractions
   - Intro to Programming for Non-Programmers
   - Discrete Math Structures
