@@ -1,6 +1,6 @@
 ## Hey there 👋🏼
 
-I'm Mason Cacurak, a passionate 4th year computer science student at The University of Oklahoma.
+I am a 4th year student at the University of Oklahoma majoring in Computer Science with a minor in General Business. I am very passionate about continuously learning new technical skills as well as leveraging them to drive innovation and deliver impactful solutions in the software field.
 
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
