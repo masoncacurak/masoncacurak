@@ -28,6 +28,7 @@ I am a 4th year student at the University of Oklahoma majoring in Computer Scien
 ### Frameworks:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### **Contact Information:**
