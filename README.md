@@ -37,22 +37,6 @@ I am a 4th year student at the University of Oklahoma majoring in Computer Scien
   - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/masoncacurak/)
   - Phone: (214) 673-9675
 
-### **Current CS Course Work:**
-  - Software Engineering
-  - Artificial Intelligence
-  - Computer Security
-  - Database Management Systems
- 
-### **Previously Completed CS Related Courses:**
-  - Programming Structures & Abstractions
-  - Intro to Programming for Non-Programmers
-  - Discrete Structures
-  - Data Structures
-  - Computer Orginization
-  - Probability, Statistics, & Random Processes
-  - Intro to Operating Systems
-  - Principles of Programming Languages
-  - Theory of Computation
  
 
 
